@@ -1,0 +1,7 @@
+echo "streamlit
+openai
+langchain
+faiss-cpu
+PyPDF2
+sentence-transformers
+python-dotenv" > requirements.txt
